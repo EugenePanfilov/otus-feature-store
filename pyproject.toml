@@ -13,6 +13,10 @@ jupyter = "^1.1.1"
 lab = "^8.2"
 
 
+[tool.poetry.group.dev.dependencies]
+notebook = "^7.5.3"
+ipykernel = "^7.2.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
