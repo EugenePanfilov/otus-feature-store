@@ -6,7 +6,7 @@
 - `feature_store/feature_repo/feature_repo.py` — Entity/Source/FeatureView/OnDemand/Service
 - `feature_store/feature_repo/feature_store.yaml` — registry + online store (SQLite)
 - `feature_store/feature_repo/data/driver_stats.parquet` — offline данные
-- `feast_feature_views_demo_no_val_to_add.ipynb` — примеры запросов
+- `feast_feature_views_demo.ipynb` — примеры запросов
 
 ## Команды (Poetry)
 Запускать из `feature_store/feature_repo`:
